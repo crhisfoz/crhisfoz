@@ -1,5 +1,5 @@
 ### Olá, eu sou o Crhistian Silva
-- 🌱 Estudando Desenvolvimento Full Stack 
+- 🌱 Dev Full Stack Jr
 
 ### Repositório para Projetos Executados Full Stack
 
